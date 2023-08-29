@@ -1,4 +1,4 @@
-from main_window import MainWindow
+from window_classes import MainWindow
 
 root = MainWindow()
 root.mainloop()
